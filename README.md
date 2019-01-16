@@ -1,6 +1,6 @@
 # first-springboot
 
-step 1：到https://start.spring.io/初始化项目框架
+step 1：到https://start.spring.io/创建一个springboot项目,再导入到idea
 
 step 2：定义用户模型，包括属性：用户ID和名称
 
