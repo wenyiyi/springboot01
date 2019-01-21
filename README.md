@@ -1,6 +1,7 @@
 # first-springboot
 
-step 1：到https://start.spring.io/ 创建一个springboot项目,再导入到idea
+step 1：采用Spring Initializr搭建
+        Spring Initializr是官方提供的一种快捷搭建Spring Boot应用的方式。 只需要打开网址: https://start.spring.io/ 
 
 step 2：定义用户模型，包括属性：用户ID和名称
 
